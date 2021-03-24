@@ -1,0 +1,168 @@
+Package: zntxyu.AirPods.EQE
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.AirPods.EQE_1.0_iphoneos-arm.deb
+Size: 902
+MD5sum: e2864e667e570e74b4e72ec33d3cb4bb
+SHA1: a0547d5ed945f0f7ab455a5f1553eba45a61b5a7
+SHA256: a40007bb271b85b56a36dfef5486e7384fc1f58c00698b48fa8be8b52d542d66
+Section: Tweaks
+Description: EQE presets.
+Author: Zntxyu
+Name: AirPods EQE Presets
+
+Package: zntxyu.AppsManager.Crack
+Version: 1.1-4
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.AppsManager.Crack_1.1-4_iphoneos-arm.deb
+Size: 15384
+MD5sum: 359cce6a7ca7bf5af18efa3f4cfed60b
+SHA1: 3438e2b0bfff4dfc70fa2dd0bbd1cc75caae86ff
+SHA256: 133cffa2c1f0eb9a658ed83125da2aca908284518601b0934bde4102b62e1fc5
+Section: Utilities
+Description: Apps Manager破解全功能插件。
+Author: Netskao
+Name: Apps Manager Crack
+
+Package: zntxyu.BetterCCxi.Fix
+Version: 1.6.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Filename: ./debs/zntxyu.BetterCCxi.Fix_1.6.0_iphoneos-arm.deb
+Size: 158456
+MD5sum: 807ee50f24bb7a81d4cf1be1d3fcf968
+SHA1: 3b37ac63b69dda20e9661ada1dbd623f58bb5724
+SHA256: 0634fc39ec571f8886bd9ad9452a87d84243fdc465f74b4641a1da4536d9132a
+Section: Tweaks
+Description: Enhance your control center on iOS13.
+Author: ATWiiks
+Name: BetterCCXI Fix
+
+Package: zntxyu.CCModules
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
+Filename: ./debs/zntxyu.CCModules_1.0_iphoneos-arm.deb
+Size: 139958
+MD5sum: e7e3c56b393090a1e4a56381d01eb6c7
+SHA1: 33c82f91f2b94d5c639c164194ae2dcfe6a5721a
+SHA256: 3834db03cb0a54aaaeb9d322f8b0b82c8480488e96387fbd6bc5d60a6a0dd9de
+Section: Tweaks
+Description: CCModules.
+Author: zntxyu
+Name: CCModules
+
+Package: zntxyu.GPS.Manager
+Version: 1.8.8k
+Architecture: iphoneos-arm
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14)
+Filename: ./debs/zntxyu.GPS.Manager_1.8.8k_iphoneos-arm.deb
+Size: 4130360
+MD5sum: fd71cc818f7848f0b03aab936477ed2f
+SHA1: c0fbb16dabf3d2533a0ee0ac49363101b00bddae
+SHA256: aec5da6587b485e64f6e38906f7bcc81d083d617bc25c7393e3d309085941957
+Section: Tweaks
+Description: Configure APP's fake GPS location wherever you like.
+Author: chencong
+Name: GPS Manager
+
+Package: zntxyu.MIX.Crack
+Version: 1.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.MIX.Crack_1.1-1_iphoneos-arm.deb
+Size: 69116
+MD5sum: cf6be935a8b78b7ed32d3ba931d777f2
+SHA1: d0a03c1ce2e0c4d545256b2cb4b1e0ced211239f
+SHA256: 6408a89dcd855b56eb9c42e32f04f261a846c24dc04385bd0fa7576dd90133ed
+Section: Utilities
+Description: MIX滤镜大师开启全滤镜下载权限和全功能。
+Author: 7Loopy
+Name: MIX滤镜大师 Crack
+
+Package: zntxyu.Modules.Battery
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
+Filename: ./debs/zntxyu.Modules.Battery_1.0_iphoneos-arm.deb
+Size: 38308
+MD5sum: 8c5e9de06cc94dea71fc8f4756ccfabb
+SHA1: 4c76927b633617233062ce901c4d186705be3062
+SHA256: ba76659d2eb3c9092f6df06b2ba3c3c58d3dff93fe4b34c9123bac1294d2cc23
+Section: Tweaks
+Description: Modules Battery
+Author: zntxyu
+Name: Modules Battery
+
+Package: zntxyu.PTJ.Crack
+Version: 1.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.PTJ.Crack_1.1-1_iphoneos-arm.deb
+Size: 68570
+MD5sum: 443ee538e54e57adb7277dfab5233cbc
+SHA1: 8fb55ef4c19c4463284ddd44520974f1d0343c39
+SHA256: a00f856c6d87d168e9e2157a5840abff935babd8a99ad154f0d9967c91d5d910
+Section: Utilities
+Description: 拼图酱开启高级权限。
+Author: 7Loopy
+Name: 拼图酱 Crack
+
+Package: zntxyu.PicsArt.Crack
+Version: 1.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.PicsArt.Crack_1.1-1_iphoneos-arm.deb
+Size: 69208
+MD5sum: eeb10ad4a4aad34e49b2caa7091c9482
+SHA1: 5f507967a067aaf141efc5beca4eda03f1fb926e
+SHA256: 4f006e54d69a77832c046a120d87ada37287aa93f129e3d71ddae8e0f1310052
+Section: Utilities
+Description: PicsArt美易开启高级权限。
+Author: 7Loopy
+Name: PicsArt美易 Crack
+
+Package: zntxyu.SpotiLife
+Version: 1.3a
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/zntxyu.SpotiLife_1.3a_iphoneos-arm.deb
+Size: 200272
+MD5sum: 19ef1f647d24ff46c6001d9e99f90bee
+SHA1: c757a164c4e75615148604f1992003c4cc8e70a7
+SHA256: 9b3866393cf596ac74e0de21d2defbed7985e238b012e2520ef9856be318afad
+Section: Tweaks
+Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked.
+Author: julioverne
+Name: SpotiLife
+
+Package: zntxyu.Status.Bar
+Version: 1.0
+Architecture: iphoneos-arm
+Filename: ./debs/zntxyu.Status.Bar_1.0_iphoneos-arm.deb
+Size: 98566
+MD5sum: 787c28623087588ca8c0b1d6798cdd19
+SHA1: 5040546eb7298216c176a40866f60c244386fd6f
+SHA256: 41ffee6ae083d44b5c4a8ee25b675f3767673d9acdbd249c402bdcd6b21fb342
+Section: Themes (Status Bar)
+Description: Status Bar For Phone Assistant.
+Author: Zntxyu
+Name: Zntxyu Bar
+
+Package: zntxyu.YueHei+Panton
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: zntxyu
+Depends: firmware (>= 13.0)
+Filename: ./debs/zntxyu.YueHei+Panton_1.0_iphoneos-arm.deb
+Size: 38821928
+MD5sum: 8b6af83228eb14eb467da8f886b2819a
+SHA1: 9b80bf321787be32b61a843a23f032ec95eebcf6
+SHA256: ab23ed040e82d26be6fd990e5ea026ce29e9aa3695d6e60af94f23303d6157b3
+Section: System
+Description: 悦黑+Panton字体，添加盲文，安装自动备份当前字体，卸载自动还原。
+Author: zntxyu
+Name: Font-悦黑+Panton
+
